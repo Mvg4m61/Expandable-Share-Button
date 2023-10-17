@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap');
 
-:root {
-    --background: #2C2C2C;
-	--active: #00C896;	
-}
+
 
 * {
 	margin: 0;
